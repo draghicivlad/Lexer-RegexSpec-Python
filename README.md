@@ -1,1 +1,1 @@
-# Lexer-RegexSpec-Python
+Lexer using Regex as specification in Python.
